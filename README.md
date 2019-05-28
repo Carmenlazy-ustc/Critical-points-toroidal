@@ -1,2 +1,2 @@
 # Critical-points-toroidal
-Jupyter Notebooks to calculate FEM approximations of elliptic problems in toroidal regions
+Jupyter Notebooks to calculate FEM approximations of elliptic problems in toroidal regions using FENICS. 
